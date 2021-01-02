@@ -4,7 +4,6 @@ Each season has it's own json file. Statistics include events like yellow cards,
 
 ## file structure
 Each file contains array of games of given season. All properties of game object are pretty self-descriptive.  
-If there is a need to add description for game object properties because something is unclear please raise an issue I will add it then.  
 Example of a game object below:  
 ```json
   {
